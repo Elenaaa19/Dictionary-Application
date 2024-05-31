@@ -1,0 +1,10 @@
+MASINA:,autoturisme,Sistem tehnic alcătuit din piese cu mișcări determinate  care transformă o formă de energie în altă formă de energie sau în lucru mecanic util,masina.jpg
+COVRIG:,patiserie,Produs alimentar în formă de inel,covrigi.jpg
+STRUDEL CU MERE:,patiserie,Plăcintă făcută din foi subțiri umplute cu mere,strudel.jpg
+MAR:,fructe,Pom din familia rozaceelor,
+MORCOV:,legume, Plantă leguminoasă de culoare portocalie,morcov.jpg
+CAIET:,papetarie,Fasciculă de foi de hârtie legate sau broșate împreună folosită la scris sau desenat,caiet.jpg
+LAPTOP,device,computer personal cu baterii sau curent electric,implicit.jpg
+
+CAMERA FOTO,device,Aparat folosit pentru fotografiat,implicit.jpg
+MAR:,legume,Pom din familia rozaceelor,implicit.jpg

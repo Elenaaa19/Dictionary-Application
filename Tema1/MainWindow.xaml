@@ -1,0 +1,45 @@
+﻿<Window x:Class="Tema1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Color x:Key="SolidColorBrushColor1">#FF13D133</Color>
+    </Window.Resources>
+    <Grid>
+        <PasswordBox x:Name="txtPassword" />
+        <TextBox x:Name="txtUsername" Margin="-10,-87,10,-47" />
+        <Button x:Name="ADMINISTRATIV" Content="ADMINISTRATIV" HorizontalAlignment="Left" Click="b1_Click" Height="100" Margin="10,162,0,0" VerticalAlignment="Top" Width="208" FontFamily="Arial Rounded MT Bold" FontSize="16" FontWeight="Bold" Background="#FF299D1A">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="CAUTARE_DE_CUVINTE" Content="CAUTARE DE CUVINTE" HorizontalAlignment="Left" Click="b2_Click"  Height="100" Margin="286,161,0,0" VerticalAlignment="Top" Width="208" FontSize="16" FontWeight="Bold" FontFamily="Arial Rounded MT Bold" Background="#FF84B83A">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="{DynamicResource SolidColorBrushColor1}"/>
+            </Button.BorderBrush>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="DIVERTISMENT" Content="DIVERTISMENT" HorizontalAlignment="Left" Height="100" Margin="560,162,0,0" VerticalAlignment="Top" Width="208" FontFamily="Arial Rounded MT Bold" FontWeight="Bold" FontSize="20" Background="#FF17C81B" Click="DIVERTISMENT_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="114" Margin="222,10,0,0" VerticalAlignment="Top" Width="322" Source="/capture.PNG">
+            <Image.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Image.OpacityMask>
+        </Image>
+
+
+
+    </Grid>
+</Window>

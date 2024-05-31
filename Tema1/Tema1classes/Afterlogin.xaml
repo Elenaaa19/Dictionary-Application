@@ -1,0 +1,41 @@
+﻿<Window x:Class="Tema1.Tema1classes.Afterlogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1.Tema1classes"
+        mc:Ignorable="d"
+        Title="Afterlogin" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.194,0.437">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="116*"/>
+            <RowDefinition Height="101*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="277*"/>
+            <ColumnDefinition Width="523*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="ADD&#xD;&#xA;" HorizontalAlignment="Left" Height="50" Margin="42,94,0,0" VerticalAlignment="Top" Width="96" Click="ADD" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}" Foreground="#FF4EDD1B" FontWeight="Bold" FontSize="14" BorderBrush="{Binding ActualHeight, ElementName=button, Mode=OneWay}" Grid.Row="1"/>
+        <Button Content="Modifica" HorizontalAlignment="Left" Height="50" Margin="205,94,0,0" VerticalAlignment="Top" Width="104" Grid.ColumnSpan="2" Click="Modifica" Background="#FFABBA04" FontWeight="Bold" FontSize="14" Grid.Row="1"/>
+        <Button Content="Sterge" HorizontalAlignment="Left" Height="50" Margin="111,94,0,0" VerticalAlignment="Top" Width="110" Grid.Column="1" Click="Sterge" BorderBrush="#FFE22929" Background="#FFE51B1B" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <ComboBox x:Name="comboBoxCategorii"  HorizontalAlignment="Left" Height="31" Margin="150,80,0,0" VerticalAlignment="Top" Width="112" SelectionChanged="ComboBox_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="10,85,0,0" TextWrapping="Wrap" Text="Categorie:" VerticalAlignment="Top" Width="99" FontFamily="Cascadia Mono"/>
+        <TextBlock HorizontalAlignment="Left" Height="29" Margin="13,35,0,0" TextWrapping="Wrap" Text="Cuvant:" VerticalAlignment="Top" Width="104" FontFamily="Cascadia Mono SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="10,183,0,0" TextWrapping="Wrap" Text="Descriere:" VerticalAlignment="Top" Width="99" FontFamily="Cascadia Mono"/>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="10,19,0,0" TextWrapping="Wrap" Text="Imagine" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.308,0.221" FontFamily="Cascadia Mono" Grid.Row="1"/>
+        <Button Content="Select image" HorizontalAlignment="Left" Height="31" Margin="156,14,0,0" VerticalAlignment="Top" Width="121" Click="SelectImage_Click" Grid.Row="1"/>
+        <Label Grid.Column="1" Content="Search" HorizontalAlignment="Left" Height="29" Margin="89,19,0,0" VerticalAlignment="Top" Width="68" FontFamily="Cascadia Mono"/>
+        <TextBox x:Name="search"     Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="182,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" TextChanged="Search"/>
+        <TextBox  x:Name="cuvant"  HorizontalAlignment="Left" Height="29" Margin="146,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="121"/>
+        <TextBox x:Name="descriere"  HorizontalAlignment="Left" Height="46" Margin="155,173,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="129" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="ListBoxCuvinte"  ItemsSource="{Binding Cuvinte}" DisplayMemberPath="FullCuvant" Margin="89,63,38,5" SelectionChanged="Listcuvinte" Grid.Column="1" />
+        <Image x:Name="ImagineCuvant" Source="{Binding SelectedItem.Imagine, ElementName=ListBoxCuvinte}" Grid.Column="1" HorizontalAlignment="Left" Height="173" Margin="242,19,0,0" VerticalAlignment="Top" Width="271" Grid.Row="1">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <TextBlock HorizontalAlignment="Left" Height="38" Margin="13,126,0,0" TextWrapping="Wrap" Text="Adauga categorie noua:" VerticalAlignment="Top" Width="142" RenderTransformOrigin="0.22,0.835" FontFamily="Cascadia Mono" FontSize="11"/>
+        <TextBox x:Name="categorienoua"  HorizontalAlignment="Left" Height="19" Margin="155,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="112"/>
+
+    </Grid>
+</Window>

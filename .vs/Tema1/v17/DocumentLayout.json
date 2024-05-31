@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\divertismentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\divertismentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\cuvinte.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\cuvinte.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\tema1\\tema1\\tema1classes\\afterlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\afterlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\cuvintelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\cuvintelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\cuvant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\cuvant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\tema1\\tema1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\searchwords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\searchwords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\divertismentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\divertismentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\afterlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\afterlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\searchwords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\searchwords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\tema1classes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\tema1classes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\tema1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{077B8423-F8A9-4B3A-8B53-8DBF5B9273D4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tema1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwvzsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:52:03.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Afterlogin.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Afterlogin.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\Afterlogin.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Afterlogin.xaml",
+              "RelativeToolTip": "Tema1\\Tema1classes\\Afterlogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T10:30:07.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\AdminWindow.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\AdminWindow.xaml",
+              "RelativeToolTip": "Tema1\\Tema1classes\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T10:29:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tema1\\MainWindow.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml",
+              "RelativeToolTip": "Tema1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T09:57:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuvintelist.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Cuvintelist.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\Cuvintelist.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Cuvintelist.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\Cuvintelist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:22:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cuvant.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\cuvant.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\cuvant.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\cuvant.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\cuvant.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:14:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cuvinte.txt",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\cuvinte.txt",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\cuvinte.txt",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\cuvinte.txt",
+              "RelativeToolTip": "Tema1\\Tema1classes\\cuvinte.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-17T11:07:31.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DivertismentWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\DivertismentWindow.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\DivertismentWindow.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\DivertismentWindow.xaml",
+              "RelativeToolTip": "Tema1\\Tema1classes\\DivertismentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T10:14:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Login.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\Login.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Login.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:18:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\App.xaml",
+              "RelativeDocumentMoniker": "Tema1\\App.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\App.xaml",
+              "RelativeToolTip": "Tema1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T17:53:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Afterlogin.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Afterlogin.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\Afterlogin.xaml.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\Afterlogin.xaml.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\Afterlogin.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:58:06.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivertismentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\DivertismentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\DivertismentWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\DivertismentWindow.xaml.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\DivertismentWindow.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:14:52.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchWords.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\SearchWords.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\SearchWords.xaml.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\SearchWords.xaml.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\SearchWords.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:25:12.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchWords.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\SearchWords.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\SearchWords.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\SearchWords.xaml",
+              "RelativeToolTip": "Tema1\\Tema1classes\\SearchWords.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T14:20:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Tema1classes\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\Tema1\\Tema1\\Tema1classes\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Tema1\\Tema1classes\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:26:08.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

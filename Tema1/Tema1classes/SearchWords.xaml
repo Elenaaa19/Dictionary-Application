@@ -1,0 +1,17 @@
+﻿<Window x:Class="Tema1.Tema1classes.SearchWords"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1.Tema1classes"
+        mc:Ignorable="d"
+        Title="SearchWords" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="37,32,0,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top" Width="78"/>
+        <TextBox x:Name="searchbox" HorizontalAlignment="Left" Height="28" Margin="144,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="466" TextChanged="Search_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="31" Margin="37,273,0,0" TextWrapping="Wrap" Text="Categorie" VerticalAlignment="Top" Width="78"/>
+        <ComboBox x:Name="CategoryComboBox" HorizontalAlignment="Left" Height="31" Margin="144,270,0,0" VerticalAlignment="Top" Width="186" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="122" Margin="144,65,0,0" VerticalAlignment="Top" Width="466" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="ListBox_SelectionChanged"/>
+
+    </Grid>
+</Window>
